@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  token: "f3065aab5a1b1f2d651b11b5fe11fc22331e7efa",
+  api: "https://api-ssl.bitly.com"
 };
 
 /*
